@@ -64,29 +64,27 @@ education:
       university: SSN College of Engineering
       time: 2011 - 2015
       details: |
-          - Placement coordinator of Department
-		  - Technical lead of Instincts'15 - National level cultural fest
-		  - Member of iCell, Member of Drona - a technical talk in the department
-          - Bullet point
+        - Placement coordinator of Department
+        - Technical lead of Instincts'15 - National level cultural fest
+        - Member of iCell, Member of Drona - a technical talk in the department
+        - Bullet point
 experiences:
     - role: Member of Techical Staff (Full Stack)
       time: July, 2015 - Present
       company: Zoho Corporation, India
       details: |
-        Zoho Flow is an integration engine which provides data integration between 150+ application across Zoho Products and third-party cloud-based applications.
-
-		One of the custodians of Zoho Flow's core logic and application infrastructure. I manage scalable delivery, APIs, and database component like Cassandra.
-
-		Some of my roles include,
-		- Joined as the core member of the new team, involved in all phases of the project life cycle including requirement gathering, analysis, design, coding, testing, and implementation.
-		- Involved in designing and writing a framework that acts as a core engine for the platform.
-		- Designed and implemented a logging mechanism for the platform from scratch which records the execution of the flow using Apache Cassandra, NoSQL database management system.
-		- Deploying and monitoring Cassandra nodes in production. Developed a generic application model and authentication model which enables third-party applications to plug in their services into our platform at ease.
-		- Developed a dashboard, where the users can view the execution of the flow and their success rate and generate a report based on the given date.
-		- Deploying and monitoring Cassandra nodes in production.
-		- Coordinated and deployed weekly production builds.
-		- Developed a generic authentication module that enables third-party applications to plug in their services into our platform at ease.
-		- Taken major steps to ensure my product has GDPR Compliance.
+          Zoho Flow is an integration engine which provides data integration between 150+ application across Zoho Products and third-party cloud-based applications.
+          One of the custodians of Zoho Flow's core logic and application infrastructure. I manage scalable delivery, APIs, and database component like Cassandra.
+          Some of my roles include,
+          - Joined as the core member of the new team, involved in all phases of the project life cycle including requirement gathering, analysis, design, coding, testing, and implementation.
+          - Involved in designing and writing a framework that acts as a core engine for the platform.
+          - Designed and implemented a logging mechanism for the platform from scratch which records the execution of the flow using Apache Cassandra, NoSQL database management system.
+          - Deploying and monitoring Cassandra nodes in production. Developed a generic application model and authentication model which enables third-party applications to plug in their services into our platform at ease.
+          - Developed a dashboard, where the users can view the execution of the flow and their success rate and generate a report based on the given date.
+          - Deploying and monitoring Cassandra nodes in production.
+          - Coordinated and deployed weekly production builds.
+          - Developed a generic authentication module that enables third-party applications to plug in their services into our platform at ease.
+          - Taken major steps to ensure my product has GDPR Compliance.
 projects:
     title: Projects
     intro: >
