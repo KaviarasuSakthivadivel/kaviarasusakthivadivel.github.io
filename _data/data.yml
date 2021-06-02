@@ -8,32 +8,29 @@ sidebar:
 
     # Profile information
     name: Kaviarasu Sakthivadivel
-    tagline: Full Stack Developer
+    tagline: Incoming graduate student at University at Buffalo | Full-stack developer | Product and engineering @ Zoho | Aspiring Engineering manager.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: kascatchme@gmail.com
+    phone: +91 8526566159
+    website: kaviarasu.engineer #do not add http://
+    linkedin: kaviarasusakthivadivel
+    xing: 
+    github: KaviarasuSakthivadivel
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Tamil
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
@@ -49,12 +46,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a Software Developer and I have a particular interest in everything related to application development, APIs, Cloud & Big data.
+
+      I'm born and brought up from a small town, So I always wanted to get out of my place and get exposed to the newer environment of higher possibilities. The urge to explore opportunities, surround me with smart people, and gain experiences that would push my limits led me to different places.
+      I love coding. Especially server-side technologies. Because what matters is a small idea that can make people's lives easier.
+
+      But that doesn't mean I'm too much of an academic-oriented guy. I believe in a balanced profile. I play badminton for my recreation. I have participated in a few inter-year tournaments in high schools as well as in college. Apart from this, traveling and meeting new people always interested me.
+
+      I'm a self-motivated, target-oriented person, who will do whatever it takes, learn whatever it demands, to get the job done in the best possible way.
 education:
     - degree: MSc in Computer Science
       university: University of London
