@@ -86,53 +86,50 @@ experiences:
           - Developed a generic authentication module that enables third-party applications to plug in their services into our platform at ease.
           - Taken major steps to ensure my product has GDPR Compliance.
 projects:
-    title: Projects
+    title: Academic Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
+      - title: Instincts
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "An Android Application, Instincts, the official application of SSN cultural called ‘Instincts’. 
+        Users can get all the information needed about instincts right from events, schedules, live tweets, registration, and location. 
+        I have integrated Twitter API to tweet about events, which is basically displayed as live tweets during the cultural. 
+        Instincts have reached more than 1K downloads in Google play store. And also the website is developed for the same."
 
-      - title: DevStudio
+      - title: Expense Tracker
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "An Android Application for managing daily expenses using SQLITE Database management with an event notification."
 
-      - title: Tempo
+      - title: Aadhi Photography
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "An Android Application, Aadhi photography that synchronizes personal photos from www.flickr.com using Flickr API to the mobile application for the users to view as well as set it as wallpaper."
 
-      - title: Atom
+      - title: Refind
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "An Android Application, Refind, is an innovative map-based application where it helps the users to rent out properties using the Spatial Search algorithm. The database is maintained in a free hosting server."
 
-      - title: Delta
+      - title: Web based framework for diagnosis system
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "To provide diagnosis response for different diseases. This framework is validated for the diagnosis of heart diseases and risks using Fuzzy logic."
 
 publications:
-    title: Publications
+    title: ACHIEVEMENTS AND CERTIFICATIONS
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
+      - title: Awarded ‘Rajya Puraskar’ for my outstanding involvement as a Scout
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Google Cloud Platform Fundamentals - Core Infrastructure
+        link: "https://www.coursera.org/account/accomplishments/certificate/433FT7RDJV8F"
+        # authors: Coursera
+        conference: "Coursera, May 2021"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Algorithmic Toolbox
+        link: "https://www.coursera.org/account/accomplishments/certificate/NH77JQR6X9P9"
+        # authors: Coursera
+        conference: "Coursera, May 2021"
 
 skills:
     title: Skills &amp; Proficiency
